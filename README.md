@@ -5,11 +5,13 @@ A game development engine that uses Java’s LWJGL (LightWeight Java Game Librar
 
 
 Problem:
+
 Other game engines have to rely on industry standards that do not have much flexibility.  They are based on fundamentals that do not allow for complex interactions to occur without heavy modification.
 
 
 
 Solution:
+
 The GameShopEngine will provide its own standard of game development, based on fundamentals that focus on dynamism and complex interactions.
 
 
