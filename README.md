@@ -20,3 +20,9 @@ The GameShopEngine will provide its own standard of game development, based on f
 License:
 
 The GameShopEngine is currently FOSS (Free to Use Open Source Software).  This means that anyone can use it for free, any of the source code, without any strings attached!
+
+Patreon:
+
+patreon.com/GameShop
+
+All Patreons appreciated!
